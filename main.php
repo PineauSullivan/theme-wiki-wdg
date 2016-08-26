@@ -203,7 +203,7 @@ jQuery(function ()
                 ?>
             </ul>
             <div class="description_wdg">
-                <p>L'utilité de ce wiki est de blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl blablabl.</p>
+                <p>L'utilité de ce wiki est de (à compléter WDG !).....</p>
                 <a id="link_wdg" href="https://www.wedogood.co/contact">Contact</a>
             </div>
             
